@@ -68,3 +68,7 @@ https://esambf.github.io
 G. Berikut adalah screenshoot (gif) halaman dashboard aplikasi pinjam ruang :
 
 ![ezgif com-gif-maker](https://github.com/esambf/esambf.github.io/blob/master/img/ezgif-7-1a8efcf0a9e0.gif)
+
+H. Folder UTS
+
+https://drive.google.com/drive/folders/1Um-8_Y0a-CcgGKA_B3QJ7ZdOBkTze1sF?usp=sharing
