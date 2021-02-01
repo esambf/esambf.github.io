@@ -1,67 +1,56 @@
 # RKS
-Tugas Kuliah
+Tugas dan UAS
 
-Pada Aplikasi Online Shop yang saya buat dengan nama "Stuffnime" ini menggunakan Android Studio yang dimana untuk membuat Front End nya.
+Topik Aplikasi yang dibuat adalah tentang peminjaman ruangan, dengan nama "pinjamruang.id". 
+Untuk Frontend menggunakan platform website dan dibuat menggunakan text editor sublime. 
 
-Berikut file file yg digunakan dan dimasukan pada folder berikut :
+Daftar file pembuatan frontend:
 
-A. Layout :
+A. Page :
 
-    - activity_main.xml
-    - activity_login.xml
-    - activity_register.xml
-    - activity_toko.xml
-    - activity_list_barang.xml   
-    - activity_detail_barang.xml
-    - activity_pembayaran.xml
-    - activity_pembayaran_sukses.xml
+-index.html
+-daftar_ruang.html
+-dashboard.html
+-data_peminjaman.html
+-pengaturan.html
+-pinjam_ruang.html
+-pinjam_ruang_notif.html
+-status_ruang.html
 
-B. Java :
 
-    - MainActivity.java
-    - Login.java
-    - Register.java
-    - Toko.java
-    - DetailBarang.java
-    - ListBarang.java
-    - Pembayaran.java
-    - PembayaranSukses.java
+B. CSS
+
+-bootstrap-social.css
+-bootstrap-theme.min.css
+-bootstrap.min.css
+-font-awesome.min.css
+-metisMenu.min.css
+-morris.css
+-timeline.css
+-utama.css
+-datatables
     
-C. Drawable :
+C. Javascript :
 
-    - bg_btn.xml
-    - bg_btn_bac.xml
-    - btn.xml
-    - grp.png
-    - hitm.webp
-    - hood.jpg
-    - ic_lock.xml
-    - ic_person.xml
-    - merah.jpg
-    - pnk.webp
-    - sukses.png
-    - wl.png
-    - yo.png
+-bootstrap.min.js
+-flot-data.js
+-jquery.min.js
+-metisMenu.min.js
+-morris-data.js
+-morris.min.js
+-raphael.min.js
+-utama.js
+-datatables   
+
+D. IMG :
+
+-prid.png (logo) 
+-prid.png (logo2) 
     
-D. Values :
+E. Berikut adalah URL Website Frontend aplikasi peminjaman ruanganan (live preview) :
 
-    - colors.xml
-    - dimens.xml
-    - strings.xml
-    - styles.xml
-    
-E. Manifest :
+https://esambf.github.io
 
-    - AndroidManifest.xml
-    
-F. Berikut Video saat saya Running di Android Studio :
+F. Berikut adalah screenshoot (gif) halaman dashboard aplikasi pinjam ruang :
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/76816980/105640130-3cfa6100-5eb7-11eb-82e7-58b5d2adbcdb.gif)
-    
-
-
-
-
-
-
-
+https://github.com/esambf/esambf.github.io/blob/master/img/ezgif-7-1a8efcf0a9e0.gif
