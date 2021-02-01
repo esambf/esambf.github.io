@@ -59,3 +59,5 @@ https://esambf.github.io
 F. Berikut adalah screenshoot (gif) halaman dashboard aplikasi pinjam ruang :
 
 https://github.com/esambf/esambf.github.io/blob/master/img/ezgif-7-1a8efcf0a9e0.gif
+
+![ezgif com-gif-maker](https://github.com/esambf/esambf.github.io/blob/master/img/ezgif-7-1a8efcf0a9e0.gif)
