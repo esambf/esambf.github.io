@@ -3,6 +3,7 @@ Tugas dan UAS
 
 Topik Aplikasi yang dibuat adalah tentang peminjaman ruangan, dengan nama "pinjamruang.id". 
 Untuk Frontend menggunakan platform website dan dibuat menggunakan text editor sublime. 
+Aplikasi yang dibuat sudah sesuai dengan rancangan wireframe, workflow dan dokumentasi kebutuhan. Namun dilakukan sedikit perbaikan sehingga sistem lebih mudah digunakan. 
 
 Daftar file pembuatan frontend:
 
