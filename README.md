@@ -6,7 +6,6 @@ Untuk Frontend menggunakan platform website dan dibuat menggunakan text editor s
 
 Daftar file pembuatan frontend:
 
-
 A. Page :
 
 -index.html
@@ -31,7 +30,6 @@ B. CSS
 -utama.css
 -datatables
     
-    
 C. Javascript :
 
 -bootstrap.min.js
@@ -44,20 +42,28 @@ C. Javascript :
 -utama.js
 -datatables   
 
-
 D. IMG :
 
 -prid.png (logo) 
 -prid.png (logo2) 
 
+E. Font
+-FontAwesome.otf
+-fontawesome-webfont.eot
+-fontawesome-webfont.svg
+-fontawesome-webfont.ttf
+-fontawesome-webfont.woff
+-fontawesome-webfont.woff2
     
-E. Berikut adalah URL Website Frontend aplikasi peminjaman ruanganan (live preview) :
+F. Berikut adalah URL Website Frontend aplikasi peminjaman ruanganan (live preview) :
 
 https://esambf.github.io
 
-
-F. Berikut adalah screenshoot (gif) halaman dashboard aplikasi pinjam ruang :
+G. Berikut adalah screenshoot (gif) halaman dashboard aplikasi pinjam ruang :
 
 https://github.com/esambf/esambf.github.io/blob/master/img/ezgif-7-1a8efcf0a9e0.gif
 
 ![ezgif com-gif-maker](https://github.com/esambf/esambf.github.io/blob/master/img/ezgif-7-1a8efcf0a9e0.gif)
+    
+
+
