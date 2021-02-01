@@ -29,6 +29,7 @@ B. CSS
 -timeline.css
 -utama.css
 -datatables
+
     
 C. Javascript :
 
@@ -42,12 +43,15 @@ C. Javascript :
 -utama.js
 -datatables   
 
+
 D. IMG :
 
 -prid.png (logo) 
 -prid.png (logo2) 
 
+
 E. Font
+
 -FontAwesome.otf
 -fontawesome-webfont.eot
 -fontawesome-webfont.svg
@@ -55,15 +59,12 @@ E. Font
 -fontawesome-webfont.woff
 -fontawesome-webfont.woff2
     
+    
 F. Berikut adalah URL Website Frontend aplikasi peminjaman ruanganan (live preview) :
 
 https://esambf.github.io
 
+
 G. Berikut adalah screenshoot (gif) halaman dashboard aplikasi pinjam ruang :
 
-https://github.com/esambf/esambf.github.io/blob/master/img/ezgif-7-1a8efcf0a9e0.gif
-
 ![ezgif com-gif-maker](https://github.com/esambf/esambf.github.io/blob/master/img/ezgif-7-1a8efcf0a9e0.gif)
-    
-
-
